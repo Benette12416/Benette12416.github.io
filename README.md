@@ -2,20 +2,34 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 🚀 Features
 • Responsive and modern user interface
+
 • About Me section
+
 • Skills and Technologies showcase
+
 • Educational background and achievements
+
 • Project portfolio display
+
 • Contact information and social media links
+
 • Mobile-friendly design
+
 • Clean and user-friendly navigation
 
+
 🛠️ Technologies Used
+
 • HTML5
+
 • CSS3
+
 • JavaScript
+
 • Firebase Hosting
+
 • Responsive Web Design
+
 
 🎯 Purpose
 
@@ -28,6 +42,7 @@ Connect with potential employers, clients, and collaborators
 
 
 📂 Live Demo
+
 🌍 Website: [View Portfolio](https://benette-web-d10a9.web.app/)
 
 👨‍💻 About Me
