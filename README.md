@@ -1,6 +1,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, experience, projects, achievements, and passion for Information Technology and software development. It serves as my digital portfolio where visitors can learn more about me, explore my work, and get in touch.
 
 🚀 Features
+
 • Responsive and modern user interface
 
 • About Me section
@@ -50,10 +51,15 @@ Connect with potential employers, clients, and collaborators
 I am Benette Arocha, an Information Technology enthusiast with interests in:
 
 • Web Development
+
 • Cybersecurity
+
 • Computer Systems & Servers
+
 • Software Development
+
 • Digital Technologies
+
 
 I continuously learn and develop new skills to create innovative and practical solutions in the IT industry.
 
