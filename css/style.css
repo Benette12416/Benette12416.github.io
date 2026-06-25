@@ -572,7 +572,8 @@ body.dark .loader_line:after {
  clear:both;
  float:left;
  position:relative;
- z-index:2
+ z-index:2;
+ display:none;
 }
 .iknow_tm_video .video_inner {
  display:inline-block;
@@ -6240,4 +6241,13 @@ input[type=number] {
  .iknow_tm_intro .demo {
   max-width:90%
  }
+}
+.back-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background: #6366f1;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 20px;
 }
