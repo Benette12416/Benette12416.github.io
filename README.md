@@ -44,7 +44,7 @@ Connect with potential employers, clients, and collaborators
 
 📂 Live Demo
 
-🌍 Website: [View Portfolio]((https://benette12416.github.io/))
+🌍 Website: [View Portfolio]([https://benette12416.github.io/])
 
 👨‍💻 About Me
 
