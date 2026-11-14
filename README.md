@@ -1,68 +1,47 @@
-Welcome to my personal portfolio website! This project showcases my skills, experience, projects, achievements, and passion for Information Technology and software development. It serves as my digital portfolio where visitors can learn more about me, explore my work, and get in touch.
+# Benette Arocha | Portfolio
 
-🚀 Features
+A personal portfolio for showcasing my projects, technical interests, and work in Information Technology and software development.
 
-• Responsive and modern user interface
+**Live website:** [benette12416.github.io](https://benette12416.github.io)
 
-• About Me section
+## Overview
 
-• Skills and Technologies showcase
+This site is intended to give visitors a central place to learn about me, explore selected projects, and find ways to connect.
 
-• Educational background and achievements
+## Site sections
 
-• Project portfolio display
+- About me
+- Skills and technologies
+- Education and achievements
+- Selected projects
+- Contact and social links
 
-• Contact information and social media links
+## Technology
 
-• Mobile-friendly design
+- HTML5
+- CSS3
+- JavaScript
+- Firebase Hosting
+- Responsive web design
 
-• Clean and user-friendly navigation
+## Featured projects
 
+- [CodeArena](https://github.com/Benette12416/CodeArena)
+- [ChordLab V5](https://github.com/Benette12416/ChordLabV5)
+- [ChordLab Reharmonizer](https://github.com/Benette12416/chordlab-reharmonizer)
+- [MusicTranscribe](https://github.com/Benette12416/MusicTranscribe)
+- [Attendance System](https://github.com/Benette12416/Attendance-System)
 
-🛠️ Technologies Used
+See [all repositories](https://github.com/Benette12416?tab=repositories) for more work.
 
-• HTML5
+## Run locally
 
-• CSS3
+This repository's current README describes a static HTML, CSS, and JavaScript site. You can run it locally by opening its main HTML page in a browser. If the project uses browser features that require a local server, use a simple local development server.
 
-• JavaScript
+## Contact
 
-• Firebase Hosting
+- GitHub: [@Benette12416](https://github.com/Benette12416)
 
-• Responsive Web Design
+---
 
-
-🎯 Purpose
-
-This portfolio was created to:
-
-Showcase my technical skills and projects
-Demonstrate my web development capabilities
-Provide a centralized platform for my professional profile
-Connect with potential employers, clients, and collaborators
-
-
-📂 Live Demo
-
-🌍 Website: [View Portfolio]([https://benette12416.github.io/])
-
-👨‍💻 About Me
-
-I am Benette Arocha, an Information Technology enthusiast with interests in:
-
-• Web Development
-
-• Cybersecurity
-
-• Computer Systems & Servers
-
-• Software Development
-
-• Digital Technologies
-
-
-I continuously learn and develop new skills to create innovative and practical solutions in the IT industry.
-
-📬 Contact
-
-Feel free to connect with me through the contact section on the website for collaborations, opportunities, or discussions about technology.
+This portfolio is a work in progress and will evolve as I build and document more projects.
